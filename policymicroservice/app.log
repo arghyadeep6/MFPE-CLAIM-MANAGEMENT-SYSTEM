@@ -1,0 +1,8 @@
+INFO  02:09:34 Application started. Press Ctrl+C to shut down.
+INFO  02:09:34 Application started. Press Ctrl+C to shut down.
+INFO  02:09:34 Hosting environment: Development
+INFO  02:09:34 Hosting environment: Development
+INFO  02:09:34 Content root path: C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice
+INFO  02:09:34 Content root path: C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice
+INFO  02:09:54 Policy Controller getEligibleClaimAmount action method is called
+INFO  02:09:54 Policy Controller GetEligibleBenefits action method is called

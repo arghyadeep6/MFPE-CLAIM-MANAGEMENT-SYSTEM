@@ -1,0 +1,164 @@
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Final Project\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Final Project\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Claims Management Updated V2.1\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Claims Management Updated V2.1\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+E:\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+E:\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.exe
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\staticwebassets\policymicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\policymicroservice\obj\Debug\netcoreapp3.1\policymicroservice.MvcApplicationPartsAssemblyInfo.cache
