@@ -1,0 +1,104 @@
+﻿@model IEnumerable<memberportal.Models.memberclaim>
+
+@{ ViewData["Title"] = "View_Claims";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+<p>
+    <h1 align="right">Welcome @ViewBag.Message</h1>
+</p>
+<style>
+    div.a {
+        text-align: center;
+    }
+
+    #claims {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        #claims td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #claims tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #claims tr:hover {
+            background-color: #ddd;
+        }
+
+        #claims th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+        }
+</style>
+<p>
+    <a class="btn btn-success" asp-action="Viewbills" align="left">VIEW BILLS</a>
+    <a class="btn btn-primary" asp-action="Submit_Claim" align="right">SUBMIT NEW CLAIM</a>
+</p>
+<br />
+<marquee direction="right" bgcolor="white"><h2 align="center">VIEW ALL YOUR CLAIMS HERE</h2></marquee>
+<br />
+<table id="claims" class="table" bgcolor="#E5E7E9">
+    <thead>
+        <tr>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.memberid)</div>
+</th>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.claimid)</div>
+</th>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.billedamount)</div>
+</th>
+
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.claimedamount)
+</div>
+</th>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.benefitid)</div>
+</th>
+            <th>
+                <div class="a">
+                    VIEW YOUR CLAIM STATUS
+                    </div>
+</th>
+            <th><div class="a">SEE CLAIM DESCRIPTION</div></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.memberid)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.claimid)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.billedamount)
+            </td>
+
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.claimedamount)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.benefitid)
+            </td>
+            <td align="center">
+                @Html.DisplayFor(modelItem => item.claimstatus)
+            </td>
+            <td align="center">
+                <a class="btn btn-info" asp-controller="member" asp-action="Edit" asp-route-id="@item.claimid">LINK</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

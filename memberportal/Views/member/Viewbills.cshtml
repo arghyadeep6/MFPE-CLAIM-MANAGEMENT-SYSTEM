@@ -1,0 +1,105 @@
+﻿@model IEnumerable<memberportal.Models.memberpremium>
+
+@{
+    ViewData["Title"] = "View Bills";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Hi @ViewBag.Message view your bills</h1>
+<style>
+    div.a {
+        text-align: center;
+    }
+
+    #bills {
+        font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        #bills td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        #bills tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        #bills tr:hover {
+            background-color: #ddd;
+        }
+
+        #bills th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #4CAF50;
+            color: white;
+        }
+</style>
+
+<table id="bills" class="table" bgcolor="#E5E7E9">
+    <thead>
+        <tr>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.memberid)
+</div>
+            </th>
+            <th>
+                <div class="a">
+                @Html.DisplayNameFor(model => model.policyid)</div>
+            </th>
+            <th>
+                <div class="a">
+                    @Html.DisplayNameFor(model => model.topup)
+                </div>
+            </th>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.premium)
+</div>
+</th>
+            <th><div class="a">
+    @Html.DisplayNameFor(model => model.paiddate)
+</div>
+</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><div class="a">
+
+    @Html.DisplayFor(modelItem => item.memberid)</div>
+
+</td>
+                <td><div class="a">
+
+    @Html.DisplayFor(modelItem => item.policyid)</div>
+
+</td>
+                <td><div class="a">
+
+    @Html.DisplayFor(modelItem => item.topup)</div>
+
+</td>
+                <td><div class="a">
+
+    @Html.DisplayFor(modelItem => item.premium)</div>
+
+</td>
+                <td>
+                    <div class="a">
+                        @Html.DisplayFor(modelItem => item.paiddate)</div>
+
+</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

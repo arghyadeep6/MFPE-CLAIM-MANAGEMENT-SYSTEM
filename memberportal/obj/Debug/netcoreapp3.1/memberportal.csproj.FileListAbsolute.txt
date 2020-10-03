@@ -1,0 +1,1334 @@
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+E:\Final Project\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4 - Copy\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.exe
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.deps.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.input.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.TagHelpers.output.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorCoreGenerate.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\claimstatus.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Edit.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Index.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Login.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Submit_Claim.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\member\Viewbills.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.RazorTargetAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.Views.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\staticwebassets\memberportal.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.dll
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\memberportal\obj\Debug\netcoreapp3.1\memberportal.genruntimeconfig.cache
