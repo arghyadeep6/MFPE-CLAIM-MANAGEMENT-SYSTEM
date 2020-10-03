@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: memberconfigdeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: membermicroservice
+  template:
+    metadata:
+      labels:
+        app: membermicroservice
+    spec:
+      containers:
+      - name: memberrepos
+        image: mycontainercrr.azurecr.io/memberrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: membermicroservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: membermicroservice

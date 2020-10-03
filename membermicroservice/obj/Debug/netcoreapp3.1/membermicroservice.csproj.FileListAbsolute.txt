@@ -1,0 +1,514 @@
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+E:\Final Project\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Final Project\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v2\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v3\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Claim Management Updated v4\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Claims Management Updated V2.1\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Claims Management Updated V2.1\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\FINAL COPY\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+E:\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache
+E:\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.exe
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\DockerSampleConfig.yaml
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.deps.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.runtimeconfig.dev.json
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csprojAssemblyReference.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfoInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.AssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.csproj.CopyComplete
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\staticwebassets\membermicroservice.StaticWebAssets.xml
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.dll
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.pdb
+C:\Users\Arghyadeep\Desktop\Final CM\membermicroservice\obj\Debug\netcoreapp3.1\membermicroservice.genruntimeconfig.cache

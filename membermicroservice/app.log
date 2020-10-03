@@ -1,0 +1,391 @@
+INFO  09:52:55 Application started. Press Ctrl+C to shut down.
+INFO  09:52:55 Application started. Press Ctrl+C to shut down.
+INFO  09:52:55 Hosting environment: Development
+INFO  09:52:55 Hosting environment: Development
+INFO  09:52:55 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:52:55 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:53:15 MemberController Get View Claim Action Method is called!
+INFO  09:55:10 MemberController Submit Claim Action Method is called!
+INFO  09:55:20 MemberController Get View Claim Action Method is called!
+INFO  02:41:22 Application started. Press Ctrl+C to shut down.
+INFO  02:41:22 Application started. Press Ctrl+C to shut down.
+INFO  02:41:22 Hosting environment: Development
+INFO  02:41:22 Hosting environment: Development
+INFO  02:41:22 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  02:41:22 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  08:40:40 Application started. Press Ctrl+C to shut down.
+INFO  08:40:40 Application started. Press Ctrl+C to shut down.
+INFO  08:40:40 Hosting environment: Development
+INFO  08:40:40 Hosting environment: Development
+INFO  08:40:40 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  08:40:40 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  08:57:31 Application started. Press Ctrl+C to shut down.
+INFO  08:57:31 Application started. Press Ctrl+C to shut down.
+INFO  08:57:31 Hosting environment: Development
+INFO  08:57:31 Hosting environment: Development
+INFO  08:57:31 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  08:57:31 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:13:46 Application started. Press Ctrl+C to shut down.
+INFO  09:13:46 Application started. Press Ctrl+C to shut down.
+INFO  09:13:46 Hosting environment: Development
+INFO  09:13:46 Hosting environment: Development
+INFO  09:13:47 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:13:47 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:14:06 Bills Controller Get View Bills Action Method is called!
+INFO  02:18:41 Application started. Press Ctrl+C to shut down.
+INFO  02:18:41 Application started. Press Ctrl+C to shut down.
+INFO  02:18:41 Hosting environment: Development
+INFO  02:18:41 Hosting environment: Development
+INFO  02:18:41 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  02:18:41 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  02:20:15 MemberController Submit Claim Action Method is called!
+INFO  02:20:31 MemberController Get View Claim Action Method is called!
+INFO  05:04:39 Application started. Press Ctrl+C to shut down.
+INFO  05:04:39 Application started. Press Ctrl+C to shut down.
+INFO  05:04:39 Hosting environment: Development
+INFO  05:04:39 Hosting environment: Development
+INFO  05:04:39 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:04:39 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+ERROR 05:05:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'membermicroservice.Repository.Imemberpremiumrepo' while attempting to activate 'membermicroservice.Controllers.billsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:05:00 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'membermicroservice.Repository.Imemberpremiumrepo' while attempting to activate 'membermicroservice.Controllers.billsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:05:08 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'membermicroservice.Repository.Imemberpremiumrepo' while attempting to activate 'membermicroservice.Controllers.billsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:05:08 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'membermicroservice.Repository.Imemberpremiumrepo' while attempting to activate 'membermicroservice.Controllers.billsController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  05:06:12 Application started. Press Ctrl+C to shut down.
+INFO  05:06:12 Application started. Press Ctrl+C to shut down.
+INFO  05:06:12 Hosting environment: Development
+INFO  05:06:12 Hosting environment: Development
+INFO  05:06:12 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:06:12 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:06:28 Bills Controller Get View Bills Action Method is called!
+INFO  05:06:35 Bills Controller Get View Bills Action Method is called!
+INFO  05:08:01 Application started. Press Ctrl+C to shut down.
+INFO  05:08:01 Application started. Press Ctrl+C to shut down.
+INFO  05:08:01 Hosting environment: Development
+INFO  05:08:01 Hosting environment: Development
+INFO  05:08:01 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:08:01 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:08:14 Bills Controller Get View Bills Action Method is called!
+INFO  05:08:48 Application started. Press Ctrl+C to shut down.
+INFO  05:08:48 Application started. Press Ctrl+C to shut down.
+INFO  05:08:48 Hosting environment: Development
+INFO  05:08:48 Hosting environment: Development
+INFO  05:08:48 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:08:48 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  05:09:00 Bills Controller Get View Bills Action Method is called!
+INFO  05:09:07 Bills Controller Get View Bills Action Method is called!
+INFO  10:56:57 Application started. Press Ctrl+C to shut down.
+INFO  10:56:57 Application started. Press Ctrl+C to shut down.
+INFO  10:56:57 Hosting environment: Development
+INFO  10:56:57 Hosting environment: Development
+INFO  10:56:57 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  10:56:57 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  10:59:32 MemberController Get View Claim Action Method is called!
+INFO  11:00:02 MemberController Submit Claim Action Method is called!
+INFO  11:00:02 MemberController Get View Claim Action Method is called!
+INFO  11:01:34 MemberController Get View Claim Action Method is called!
+INFO  11:20:10 Application started. Press Ctrl+C to shut down.
+INFO  11:20:11 Application started. Press Ctrl+C to shut down.
+INFO  11:20:11 Hosting environment: Development
+INFO  11:20:11 Hosting environment: Development
+INFO  11:20:11 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:20:11 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:26:17 Application started. Press Ctrl+C to shut down.
+INFO  11:26:18 Application started. Press Ctrl+C to shut down.
+INFO  11:26:18 Hosting environment: Development
+INFO  11:26:18 Hosting environment: Development
+INFO  11:26:18 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:26:18 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:36:32 MemberController Get View Claim Action Method is called!
+ERROR 11:37:24 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at membermicroservice.Controllers.memberController.Get() in D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\Controllers\memberController.cs:line 39
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 11:37:24 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it.
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean allowHttp2, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.FinishSendAsyncBuffered(Task`1 sendTask, HttpRequestMessage request, CancellationTokenSource cts, Boolean disposeCts)
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at membermicroservice.Controllers.memberController.Get() in D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice\Controllers\memberController.cs:line 39
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  11:50:50 Application started. Press Ctrl+C to shut down.
+INFO  11:50:50 Application started. Press Ctrl+C to shut down.
+INFO  11:50:50 Hosting environment: Development
+INFO  11:50:50 Hosting environment: Development
+INFO  11:50:50 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:50:50 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:19:54 MemberController Get View Claim Action Method is called!
+INFO  01:21:24 Application started. Press Ctrl+C to shut down.
+INFO  01:21:24 Application started. Press Ctrl+C to shut down.
+INFO  01:21:24 Hosting environment: Development
+INFO  01:21:24 Hosting environment: Development
+INFO  01:21:24 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:21:24 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:22:37 MemberController Get View Claim Action Method is called!
+INFO  01:23:03 MemberController Get View Claim Action Method is called!
+INFO  01:23:36 MemberController Get View Claim Action Method is called!
+INFO  01:35:26 Application started. Press Ctrl+C to shut down.
+INFO  01:35:26 Application started. Press Ctrl+C to shut down.
+INFO  01:35:26 Hosting environment: Development
+INFO  01:35:26 Hosting environment: Development
+INFO  01:35:26 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:35:26 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:37:18 MemberController Get View Claim Action Method is called!
+INFO  01:37:59 MemberController Get View Claim Action Method is called!
+INFO  01:38:17 MemberController Get View Claim Action Method is called!
+INFO  01:42:49 MemberController Get View Claim Action Method is called!
+INFO  01:57:36 Application started. Press Ctrl+C to shut down.
+INFO  01:57:36 Application started. Press Ctrl+C to shut down.
+INFO  01:57:36 Hosting environment: Development
+INFO  01:57:36 Hosting environment: Development
+INFO  01:57:36 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:57:36 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:58:47 Bills Controller Get View Bills Action Method is called!
+INFO  09:16:24 Application started. Press Ctrl+C to shut down.
+INFO  09:16:24 Application started. Press Ctrl+C to shut down.
+INFO  09:16:24 Hosting environment: Development
+INFO  09:16:24 Hosting environment: Development
+INFO  09:16:24 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:16:24 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  09:20:13 MemberController Get View Claim Action Method is called!
+INFO  09:20:45 MemberController Get View Claim Action Method is called!
+INFO  10:56:30 Application started. Press Ctrl+C to shut down.
+INFO  10:56:30 Application started. Press Ctrl+C to shut down.
+INFO  10:56:30 Hosting environment: Development
+INFO  10:56:30 Hosting environment: Development
+INFO  10:56:30 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  10:56:30 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  10:59:32 MemberController Get View Claim Action Method is called!
+INFO  11:13:16 Application started. Press Ctrl+C to shut down.
+INFO  11:13:16 Application started. Press Ctrl+C to shut down.
+INFO  11:13:16 Hosting environment: Development
+INFO  11:13:16 Hosting environment: Development
+INFO  11:13:16 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:13:16 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  11:15:27 MemberController Get View Claim Action Method is called!
+INFO  11:15:51 MemberController Get View Claim Action Method is called!
+INFO  11:23:17 MemberController Get View Claim Action Method is called!
+INFO  12:11:00 Application started. Press Ctrl+C to shut down.
+INFO  12:11:00 Application started. Press Ctrl+C to shut down.
+INFO  12:11:00 Hosting environment: Development
+INFO  12:11:00 Hosting environment: Development
+INFO  12:11:00 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:11:00 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:31:43 Application started. Press Ctrl+C to shut down.
+INFO  12:31:43 Application started. Press Ctrl+C to shut down.
+INFO  12:31:43 Hosting environment: Development
+INFO  12:31:43 Hosting environment: Development
+INFO  12:31:43 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:31:43 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:33:10 MemberController Get View Claim Action Method is called!
+INFO  12:33:33 MemberController Get View Claim Action Method is called!
+INFO  12:36:42 Application started. Press Ctrl+C to shut down.
+INFO  12:36:42 Application started. Press Ctrl+C to shut down.
+INFO  12:36:42 Hosting environment: Development
+INFO  12:36:42 Hosting environment: Development
+INFO  12:36:42 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:36:42 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:38:49 MemberController Get View Claim Action Method is called!
+INFO  12:40:04 MemberController Submit Claim Action Method is called!
+INFO  12:40:33 MemberController Get View Claim Action Method is called!
+INFO  12:41:41 MemberController Get View Claim Action Method is called!
+INFO  12:41:55 MemberController Submit Claim Action Method is called!
+INFO  12:50:50 Application started. Press Ctrl+C to shut down.
+INFO  12:50:50 Application started. Press Ctrl+C to shut down.
+INFO  12:50:50 Hosting environment: Development
+INFO  12:50:50 Hosting environment: Development
+INFO  12:50:50 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:50:50 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  12:51:48 MemberController Get View Claim Action Method is called!
+INFO  12:52:02 MemberController Submit Claim Action Method is called!
+INFO  01:00:02 MemberController Get View Claim Action Method is called!
+INFO  01:00:17 MemberController Submit Claim Action Method is called!
+INFO  01:03:51 Application started. Press Ctrl+C to shut down.
+INFO  01:03:52 Application started. Press Ctrl+C to shut down.
+INFO  01:03:52 Hosting environment: Development
+INFO  01:03:52 Hosting environment: Development
+INFO  01:03:52 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:03:52 Content root path: D:\Study\ASP.NET CORE PROJECTS\Claim Management\membermicroservice
+INFO  01:04:54 MemberController Get View Claim Action Method is called!
+INFO  01:06:59 MemberController Submit Claim Action Method is called!
+INFO  01:11:48 MemberController Get View Claim Action Method is called!
+INFO  01:12:05 MemberController Submit Claim Action Method is called!
+INFO  01:12:12 MemberController Get View Claim Action Method is called!
+INFO  01:16:10 MemberController Get View Claim Action Method is called!
+INFO  01:16:27 MemberController View Claim Status Action Method is called!
+INFO  01:21:25 MemberController Get View Claim Action Method is called!
+INFO  01:21:25 MemberController Get View Claim Action Method is called!
+ERROR 01:21:26 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at membermicroservice.Controllers.memberController.Put(Int32 id, memberclaim obj)
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 01:21:26 An unhandled exception has occurred while executing the request.
+System.AggregateException: One or more errors occurred. (A task was canceled.)
+ ---> System.Threading.Tasks.TaskCanceledException: A task was canceled.
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at membermicroservice.Controllers.memberController.Put(Int32 id, memberclaim obj)
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  01:21:43 MemberController Get View Claim Action Method is called!
+INFO  01:21:51 MemberController View Claim Status Action Method is called!
+INFO  01:21:56 MemberController Get View Claim Action Method is called!
+INFO  01:34:06 MemberController Get View Claim Action Method is called!
+INFO  01:35:12 MemberController Submit Claim Action Method is called!
+INFO  01:35:17 MemberController Get View Claim Action Method is called!
+INFO  01:35:29 MemberController View Claim Status Action Method is called!
+INFO  01:35:33 MemberController Get View Claim Action Method is called!
+INFO  01:43:30 MemberController Submit Claim Action Method is called!
+INFO  01:43:32 MemberController Get View Claim Action Method is called!
+INFO  01:43:42 MemberController View Claim Status Action Method is called!
+INFO  01:43:45 MemberController Get View Claim Action Method is called!
